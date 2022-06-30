@@ -1,9 +1,9 @@
-login __admin__ :
-user user: user / user1234
+login user :
+user / user1234
 user / admin
 
 
-login buat __admin__ :
+login buat admin :
 admin / admin
 admin / %0|F?H@f!berhO3e
 admin / Admin
