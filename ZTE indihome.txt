@@ -1,9 +1,9 @@
-login buat user :
+login __admin__ :
 user user: user / user1234
 user / admin
 
 
-login buat admin :
+login buat __admin__ :
 admin / admin
 admin / %0|F?H@f!berhO3e
 admin / Admin
@@ -17,8 +17,3 @@ admin / Mn@lh4ink9#m
 admin / telkomjatineg4r4
 suport / theworldinyourhand
 support / Qc!80ebor3#to#b
-
-
-password zte "maintenance rikep"
-user/admin "CPE"/"acs" : @1q2w3e4
-
