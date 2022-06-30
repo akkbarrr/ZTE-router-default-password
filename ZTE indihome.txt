@@ -1,0 +1,24 @@
+login buat user :
+user user: user / user1234
+user / admin
+
+
+login buat admin :
+admin / admin
+admin / %0|F?H@f!berhO3e
+admin / Admin
+support / support
+Admin / Admin
+admin / Telkomdso123
+admin / Dj9@t!n03g4r6#f
+admin / Pq@54r!e8ow&q#u
+admin / Yu9j#4a!rth#y
+admin / Mn@lh4ink9#m
+admin / telkomjatineg4r4
+suport / theworldinyourhand
+support / Qc!80ebor3#to#b
+
+
+password zte "maintenance rikep"
+user/admin "CPE"/"acs" : @1q2w3e4
+
